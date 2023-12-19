@@ -4,6 +4,7 @@
     "browser": "src/index.tsx",
     "types": "src/index.tsx",
     "license": "UNLICENSED",
+    "version": "0.0.0",
     "dependencies": {
         "@tolkam/lib-translator": "^1.0.0"
     },
